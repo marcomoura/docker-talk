@@ -19,6 +19,8 @@ Vou demonstrar:
 # slide C - App de exemplo
 - duas dependências necessárias para rodar a app
 
+- dois serviços, vou deixar cada serviço em um container
+
 # slide D - Overview sobre a Terminologia docker
 
 ## E O QUE É UM CONTAINER DOCKER ?

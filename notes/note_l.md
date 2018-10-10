@@ -2,6 +2,11 @@
 
 O Dockerfile define como uma image é construida
 
+from BASE_IMAGE
+
+outros comandos
+COPY
+
 ```
 ls
 docker image build --tag bot_image .

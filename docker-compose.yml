@@ -8,6 +8,7 @@ services:
       - "4001:4001"
     volumes:
       - ./app:/home/app
+      - mix_cache:/root/.mix
     links:
       - bot_db
     container_name: bot
@@ -15,3 +16,6 @@ services:
   bot_db:
     image: postgres:11-alpine
     container_name: bot_db
+
+volumes:
+  mix_cache:
