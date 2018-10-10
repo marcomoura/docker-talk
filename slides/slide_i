@@ -1,0 +1,16 @@
+block
+
+<b>Banco de dados<r>
+
+
+<i>docker container<r>
+<G><b>run --name container_name image_name <r>
+
+<i>-Faz o pull da image, cria e executa o container do banco de dados<r>
+
+<i>docker container run --name bot -v $(pwd)/app:/home/app -ti<r>
+<G><b>--link nome_outro_container<r>
+<i>elixir bash<r>
+
+-Cria um link entre os container para que eles possam se comunicar
+

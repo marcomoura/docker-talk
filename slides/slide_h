@@ -1,0 +1,13 @@
+block
+
+<b>Exec com tty e interactive<r>
+
+
+docker container exec
+<G><b> --tty --interactive <r>
+ container_name
+
+<i>
+todos os comandos são executados pelo bash de dentro do contêiner
+<r>
+

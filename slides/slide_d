@@ -1,0 +1,16 @@
+block
+
+<b>Docker Container<r>
+
+<G><i>
+Um contêiner representa a execução de um único
+aplicativo, processo ou serviço...
+
+Contêiner é uma instancia de uma imagem do Docker
+<r>
+
+<b>Docker Imagem <r>
+
+<G><i>
+é um pacote (ou snapshot) com todas as dependências
+e informações necessárias para criar um contêiner<r>

@@ -1,0 +1,11 @@
+block
+
+<b>Copiar arquivo do bot para dentro do container<r>
+
+docker container create --name bot
+<G>
+  --volume path_host:path_container
+<r>
+ imagem_name
+
+<i><b>bind mount:<r> <i>uma pasta no host em uma pasta no container <r>

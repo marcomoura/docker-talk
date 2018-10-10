@@ -1,0 +1,11 @@
+block
+
+<b>Publish<r>
+
+
+<i>docker container create --name bot -v $(pwd)/app:/home/app
+--link nome_outro_container<r>
+<G><b>--publish host_port:container_port<r>
+<i>elixir<r>
+
+-Expõe uma porta do container no host

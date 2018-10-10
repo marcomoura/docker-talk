@@ -1,0 +1,9 @@
+block
+
+<b>OBJETIVO<r>
+
+<G><b>Configurar um ambiente de desenvolvimento com docker<r>
+
+• Analise de código - mix credo
+• Teste unitário    - mix test
+• Rodar a aplicação - mix run --no-halt

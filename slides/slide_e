@@ -1,0 +1,12 @@
+block
+
+<b>Gerenciar imagens<r>
+
+<G><b>docker search nome_imagem<r>
+<i>Search the Docker Hub for images<r>
+
+<G><b>docker image pull nome_imagem<r>
+<i>pull an image from a registry<r>
+
+<G><b>docker image ls<r>
+<i>list images<r>

@@ -1,0 +1,9 @@
+block
+
+<b>Dockerfile<r>
+
+<i>O Dockerfile define como uma image é construida<r>
+
+<G>docker image build --tag bot_image .<r>
+<i>Cria um imagem com as definições do Dockefile<r>
+

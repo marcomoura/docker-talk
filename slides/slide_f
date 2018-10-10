@@ -1,0 +1,12 @@
+block
+
+<b>Container app/elixir<r>
+
+<G><b>docker container create --name container_name imagem_name<r>
+<i>para transformar uma imagem em um container <r>
+
+<G><b>docker start container_name<r>
+<i>para rodar o container<r>
+
+<G><b>docker exec container_name elixir --version<r>
+<i>para interagir com o container<r>
